@@ -1,5 +1,4 @@
 # My Favorite Movie
-![alt text](Cinderella.jpg)
 **Cinderella**
 
 > *Cinderella* is a popular fairy tale that has been adapted into numerous films. 
